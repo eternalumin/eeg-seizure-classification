@@ -71,6 +71,6 @@ The dataset is imbalanced, with fewer samples in some classes, particularly clas
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/eternalumin/eeg-seizure-classification.git
    cd epileptic-seizure-classification
 
